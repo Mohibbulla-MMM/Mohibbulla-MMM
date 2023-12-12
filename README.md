@@ -69,7 +69,7 @@ A full-time front-end developer
 <img height="60" src="./images/VSCode-Dark.svg"/>
 <img height="60" src="./images/figma.png"/>
 <img height="60" src="./images/canva.png"/>
-<img height="60" src="./images/vercel.png"/>
+<img height="60" src="./images/vercel-light.png"/>
 </div>
 
 </td></tr></table>
@@ -77,7 +77,8 @@ A full-time front-end developer
 
 <!-- social icon and link -->
 ## Connect With Me
-<div align="left">
+<div align="left" flot>
+
 <a href="https://twitter.com/mohibbullammm/" target="blank"><img align="center" src="./images/Twitter.svg" alt="priom121" height="40"  /></a>
 
 <a href="https://www.facebook.com/profile.php?id=100075292367588" target="blank"><img align="center" src="./images/facebook.png" alt="priom" height="40"  /></a>

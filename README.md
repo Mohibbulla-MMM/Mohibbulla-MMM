@@ -20,7 +20,7 @@ A full-time front-end developer
 
 - 📫 How to reach me **rockychain1020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1smdE1E5R7djV0kn5UbnlWAyDSnv_Z5mL](https://drive.google.com/drive/folders/1smdE1E5R7djV0kn5UbnlWAyDSnv_Z5mL)
+- 📄 Know about my experiences [my-resume](https://drive.google.com/drive/folders/1smdE1E5R7djV0kn5UbnlWAyDSnv_Z5mL)
 
 <br/>
 
@@ -77,14 +77,14 @@ A full-time front-end developer
 
 <!-- social icon and link -->
 ## Connect With Me
-<p align="left">
-<a href="https://twitter.com/mohibbullammm/" target="blank"><img align="center" src="./images/Twitter.svg" alt="priom121" height="40" width="60" /></a>
+<div align="left">
+<a href="https://twitter.com/mohibbullammm/" target="blank"><img align="center" src="./images/Twitter.svg" alt="priom121" height="40"  /></a>
 
-<a href="https://www.facebook.com/profile.php?id=100075292367588" target="blank"><img align="center" src="./images/facebook.png" alt="priom" height="40" width="60" /></a>
+<a href="https://www.facebook.com/profile.php?id=100075292367588" target="blank"><img align="center" src="./images/facebook.png" alt="priom" height="40"  /></a>
 
-<a href="https://www.instagram.com/mohibbullam3/" target="blank"><img align="center" src="./images/instragram.png" alt="priom" height="40" width="60" /></a>
+<a href="https://www.instagram.com/mohibbullam3/" target="blank"><img align="center" src="./images/instragram.png" alt="priom" height="40"  /></a>
 
-</p>
+</div>
 
 <!--
 **Mohibbulla-MMM/Mohibbulla-MMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img src='./front-end-0developer.png'>
 
@@ -21,7 +20,7 @@ A full-time front-end developer
 
 - 📫 How to reach me **rockychain1020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1smdE1E5R7djV0kn5UbnlWAyDSnv_Z5mL](my-resume)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1smdE1E5R7djV0kn5UbnlWAyDSnv_Z5mL](https://drive.google.com/drive/folders/1smdE1E5R7djV0kn5UbnlWAyDSnv_Z5mL)
 
 <br/>
 
@@ -67,7 +66,7 @@ A full-time front-end developer
 ### Tools
 
 <div align="center"> 
-<img height="60" src="./images/VSCode-Dark.svg.svg"/>
+<img height="60" src="./images/VSCode-Dark.svg"/>
 <img height="60" src="./images/figma.png"/>
 <img height="60" src="./images/canva.png"/>
 <img height="60" src="./images/vercel.png"/>

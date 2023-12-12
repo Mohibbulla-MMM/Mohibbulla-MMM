@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<img src='./front-end-0developer.png'>
+
+<h1 align='center'>
+
+Hi,
+<br>
+A full-time front-end developer
+
+</h1>
 <!--
 **Mohibbulla-MMM/Mohibbulla-MMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
